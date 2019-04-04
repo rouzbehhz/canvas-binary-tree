@@ -1,5 +1,7 @@
 # Canvas Binary Tree 🎄
-Some fun with canvas and fillRect..
+Some fun with canvas and fillRect:
+[Live Demo](https://codepen.io/rouzbehHz/pen/EJKZzM)
+
 
 ## Usage
 
